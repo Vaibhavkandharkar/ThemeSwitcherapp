@@ -19,9 +19,8 @@ export function Layout({ children }: LayoutProps) {
     >
       <Header />
       
-      {/* Theme-specific layouts */}
       {hasSidebar ? (
-        // Theme 2: Sidebar Layout
+        
         <div className="flex">
           <Navigation isSidebar />
           <main className="flex-1 ml-64 pt-16 min-h-screen">

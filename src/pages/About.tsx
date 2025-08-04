@@ -44,7 +44,7 @@ export default function About() {
         </h1>
         <p className="text-xl text-muted-foreground font-secondary max-w-3xl mx-auto">
           A revolutionary approach to theme switching that goes beyond just changing colors. 
-          ThemeMorph demonstrates how entire user experiences can transform with thoughtful design systems.
+          ThemeChanger demonstrates how entire user experiences can transform with thoughtful design systems.
         </p>
       </section>
 

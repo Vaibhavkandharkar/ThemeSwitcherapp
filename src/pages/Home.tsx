@@ -34,7 +34,7 @@ export default function Home() {
           <h1 className="text-4xl md:text-6xl font-bold font-primary text-foreground mb-6">
             Welcome to{' '}
             <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              ThemeMorph
+              ThemeChanger
             </span>
           </h1>
           <p className="text-xl text-muted-foreground font-secondary mb-8 max-w-2xl mx-auto">
@@ -60,7 +60,7 @@ export default function Home() {
             Amazing Features
           </h2>
           <p className="text-muted-foreground font-secondary max-w-2xl mx-auto">
-            Discover what makes ThemeMorph special with its innovative theme switching capabilities.
+            Discover what makes ThemeChanger special with its innovative theme switching capabilities.
           </p>
         </div>
 

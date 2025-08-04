@@ -74,7 +74,7 @@ export default function Contact() {
           Get In Touch
         </h1>
         <p className="text-xl text-muted-foreground font-secondary max-w-2xl mx-auto">
-          Have questions about ThemeMorph? Want to collaborate or provide feedback? 
+          Have questions about ThemeChanger? Want to collaborate or provide feedback? 
           We'd love to hear from you!
         </p>
       </section>
@@ -254,7 +254,7 @@ export default function Contact() {
                   How does theme switching work?
                 </h3>
                 <p className="text-muted-foreground font-secondary text-sm">
-                  ThemeMorph uses CSS custom properties and React Context to instantly 
+                  ThemeChanger uses CSS custom properties and React Context to instantly 
                   update the entire application's appearance without page reloads.
                 </p>
               </div>
